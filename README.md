@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Ayush_banner.png" width="100%" alt="Ayush Raj - AI, Analog, VLSI and Signal Processing">
+</p>
+
 # 👋 Hi, I'm Ayush Raj
 
 ### Electronics System Engineering | Analog & Mixed-Signal | AI/ML
